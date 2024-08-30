@@ -17,6 +17,7 @@ I’m Aryan Shandilya, an 18-year-old aspiring software developer with strong sk
 <img align="left" alt="Bash" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 
+</br>
 
 
 
