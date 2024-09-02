@@ -19,8 +19,8 @@ I’m Aryan Shandilya, an 18-year-old aspiring software developer with strong sk
 <img align="left" alt="NodeJS" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Tailwind-CSS" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </br>
-<img align="left" alt="Postman" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:6px; padding-top: 4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:6px; padding-top: 4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
 
 </br>
