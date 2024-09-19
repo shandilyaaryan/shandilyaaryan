@@ -32,7 +32,3 @@ I’m Aryan Shandilya, an 18-year-old aspiring software developer with strong sk
 
 
 </br>
-
-# My Devcard
-
-<a href="https://app.daily.dev/shandilyaaryan"><img src="https://api.daily.dev/devcards/v2/KQIVmMjA6mPeBBXlFKNSM.png?type=default&r=329" width="356" alt="Aryan's Dev Card"/></a>
