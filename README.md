@@ -1,4 +1,5 @@
-# `const Aryan: Human<"Developer"> = { stack: ["Next.js", "TypeScript", "AI"], motto: "Code. Learn. Iterate." };`
+# `const Aryan = new Developer<"Human">();`
+
 
 
 # 💻 Tech Stack:
