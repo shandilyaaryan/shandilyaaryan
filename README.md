@@ -23,5 +23,7 @@
   <a href="#"><img src="https://streak-stats.demolab.com/?user=shandilyaaryan&theme=github_dark&date_format=M%20j[%2C%20Y]&hide_border=true&card_width=420px"></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=shandilyaaryan)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&hide_border=true)
