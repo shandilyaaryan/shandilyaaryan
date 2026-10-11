@@ -1,6 +1,6 @@
 # Aryan Shandilya
 
-Full-stack software engineer at Dataring. I build and run CRM and ERP software on Frappe (Python, Vue) for a US client, and build backend and real-time projects in TypeScript on the side.
+Full-stack software engineer at Dataring. I build and run CRM and ERP software on Frappe (Python, Vue), and build backend and real-time projects in TypeScript on the side.
 
 ## Public work
 
